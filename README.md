@@ -1,0 +1,2 @@
+# P2PMarkovChains
+Este trabajo trata sobre el alcance que podría tener los archivos corruptos para esparcirse entre una red virtual así como investigar cuál es la importancia de los factores que se involucran para que la red funcione y que puedan dar pie a que estos se distribuyen aún más o se quedan retenidos. para que sea algo sencillo de simular se utilizan cadenas de markov para modelar las redes y ver su comportamiento bajo un ciberataque.
