@@ -1,3 +1,14 @@
+# Librerías
+import random
+import math
+import numpy as np
+import matplotlib.pyplot as plt
+import pandas as pd
+
+def u():
+  u = random.uniform(0,1000000)
+  return u 
+
 # Estado inicial
 
 i = 0 # Peers Leeches
